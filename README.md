@@ -177,43 +177,43 @@ class MuditNarayanSoni:
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
 
+<td align="center">
 <a href="https://dsa-code-structure-visualizer.netlify.app/">
-  <img align="center" src="photos/dsa-visuallizer.png" />
+  <img src="photos/dsa-visuallizer.png" width="400"/>
 </a>
+<br/><b>DSA Visualizer</b>
+</td>
+
+<td align="center">
 <a href="https://mudit-portfolio-8mfo.vercel.app/">
-  <img align="center" src="photos/Portfoio.png" />
+  <img src="photos/Portfoio.png" width="400"/>
 </a>
+<br/><b>Portfolio Website</b>
+</td>
 
-<br/><br/>
+</tr>
 
+<tr>
+
+<td align="center">
 <a href="https://github.com/MUDIT122333/MICROBLOG-FLASK">
-  <img align="center" src="photos/Flask_blog_app.png" />
+  <img src="photos/Flask_blog_app.png" width="400"/>
 </a>
+<br/><b>Flask Blog App</b>
+</td>
+
+<td align="center">
 <a href="https://task-manager-app-pu88.vercel.app/">
-  <img align="center" src="photos/Task-manager.png" />
+  <img src="photos/Task-manager.png" width="400"/>
 </a>
+<br/><b>Task Manager App</b>
+</td>
 
-</div>
-
----
-
-## 🏅 Certifications
-
-<div align="center">
-
-| Badge | Certification | Issuer |
-|:---:|---|---|
-| ☁️ | AWS Certified Cloud Practitioner | Amazon Web Services |
-| 🔷 | Microsoft Azure Fundamentals AZ-900 | Microsoft |
-| 🔶 | OCI 2024 GenAI Professional | Oracle Cloud Infrastructure |
-| 🔶 | Oracle Cloud Developer | Oracle |
-| 🐍 | 100 Days of Python | Udemy |
-| 💼 | Python | LinkedIn Learning |
-
-</div>
-
+</tr>
+</table>
 ---
 
 ## 💼 Experience
