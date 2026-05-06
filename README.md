@@ -189,7 +189,7 @@ class MuditNarayanSoni:
 
 <td align="center">
 <a href="https://mudit-portfolio-8mfo.vercel.app/">
-  <img src="photos/Portfoio.png" width="400"/>
+  <img src="photos/Portfolio.png" width="400"/>
 </a>
 <br/><b>Portfolio Website</b>
 </td>
