@@ -181,14 +181,14 @@ class MuditNarayanSoni:
 <tr>
 
 <td align="center">
-<a href="https://dsa-code-structure-visualizer.netlify.app/">
+<a href="https://dsa-code-structure-visualizer.netlify.app/" target="_blank">
   <img src="photos/dsa-visuallizer.png" width="400"/>
 </a>
 <br/><b>DSA Visualizer</b>
 </td>
 
 <td align="center">
-<a href="https://mudit-portfolio-8mfo.vercel.app/">
+<a href="https://mudit-portfolio-8mfo.vercel.app/" target="_blank">
   <img src="photos/Portfolio.png" width="400"/>
 </a>
 <br/><b>Portfolio Website</b>
@@ -199,14 +199,14 @@ class MuditNarayanSoni:
 <tr>
 
 <td align="center">
-<a href="https://github.com/MUDIT122333/MICROBLOG-FLASK">
+<a href="https://github.com/MUDIT122333/MICROBLOG-FLASK" target="_blank">
   <img src="photos/Flask_blog_app.png" width="400"/>
 </a>
 <br/><b>Flask Blog App</b>
 </td>
 
 <td align="center">
-<a href="https://task-manager-app-pu88.vercel.app/">
+<a href="https://task-manager-app-pu88.vercel.app/" target="_blank">
   <img src="photos/Task-manager.png" width="400"/>
 </a>
 <br/><b>Task Manager App</b>
