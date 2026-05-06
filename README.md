@@ -180,7 +180,7 @@ class MuditNarayanSoni:
 <div align="center">
 
 <a href="https://dsa-code-structure-visualizer.netlify.app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MUDIT122333&repo=dsa-code-structure-visualizer&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117" />
+  <img align="center" src="photos/dsa-visuallizer.png" />
 </a>
 <a href="https://github.com/MUDIT122333/automated-application-deployment-deployment-model-using-AKS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MUDIT122333&repo=automated-application-deployment-deployment-model-using-AKS&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117" />
