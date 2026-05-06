@@ -59,9 +59,6 @@ class MuditNarayanSoni:
 
 <!-- Tech Stack -->
 ## 🛠️ Tech Stack & Tools
-<!-- Tech Stack -->
-## 🛠️ Tech Stack & Tools
-## 🛠️ Tech Stack & Tools
 
 <table align="center">
 <tr>
