@@ -50,7 +50,7 @@ class MuditNarayanSoni:
         ]
 
     def fun_fact(self):
-        return "I debug better with chai ☕ and lo-fi music 🎵"
+        return "I debug better with cold coffee ☕ and lo-fi music 🎵"
 ```
 
 <br clear="right"/>
