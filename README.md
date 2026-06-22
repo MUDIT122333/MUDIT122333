@@ -221,11 +221,10 @@ class MuditNarayanSoni:
 ```
 🏢  ZEEX-AI  |  Junior DevOps Intern  |  Remote  |  Jan 2026 – Mar 2026
 ──────────────────────────────────────────────────────────────────────────
-  ✦ Designed and deployed a cloud-based search engine with DevOps best practices
-  ✦ Automated CI/CD pipelines using Jenkins, Docker & GitHub Actions
-  ✦ Deployed containerized services on Azure Kubernetes Service (AKS)
-    with auto-scaling and load balancing
-  ✦ Managed version control, webhook integrations & continuous deployment
+– Built and deployed a cloud-native search engine using Docker, AKS, and GitHub Actions.
+– Automated CI/CD pipelines with Jenkins and GitHub Actions, reducing deployment effort by 80%.
+– Improved application performance by reducing latency by 40% and increasing throughput by 30%.
+– Implemented testing and monitoring solutions, achieving 90%+ test coverage and reliability
 ```
 
 ---
